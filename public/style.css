@@ -1,0 +1,37 @@
+html,body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background: #D8FED7;
+   font-family: 'The New Roman';
+}
+
+#left{
+   width: 50%;
+   /* height: 100vh; */
+   
+}
+
+#right{
+   width: 50%;
+   /* height: 100vh; */
+   background: palegreen;
+}
+
+#condition{
+   width: 100px;
+   height: auto;
+}
+
+#master-history{
+   display: none;
+}
+
+#mainImg{
+   width: 150px;
+   height: auto;
+}
+
+input{
+   color: black;
+}
